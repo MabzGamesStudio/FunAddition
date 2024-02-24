@@ -1,0 +1,18 @@
+.InputField {
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 80px;
+    font-family: 'Roboto Mono', monospace;
+    width: 99px;
+    height: 99px;
+}
+
+.Text {
+    padding: 5px;
+    font-size: 80px;
+    font-family: 'Roboto Mono', monospace;
+    width: 100px;
+    height: 100px;
+    margin-top: 4px;
+    margin-left: 1px;
+}
